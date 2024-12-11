@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.open-button {
+    width: 100%;
+}
+
+.urls-textarea {
+    width: 100%;
+    min-width: 400px;
+    max-width: 400px;
+    height: 80px;
+    padding: 4px;
+    white-space: nowrap;
+    resize: vertical;
+}
